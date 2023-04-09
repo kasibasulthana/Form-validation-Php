@@ -1,0 +1,50 @@
+body{
+    background-image:linear-gradient(to bottom right,rgb(255, 0, 179),rgb(0, 179, 255));
+    background-repeat: no-repeat;
+    width:auto;
+    height:95vh;
+
+}
+.toph1{
+    text-align: center;
+    font-family: arial;
+    letter-spacing: .2rem;
+}
+.form{
+    font-weight: bold;
+    text-align: center;
+    border-color: black;
+    border-width: 20px;
+    box-shadow: 0 0 10px black;
+}
+.formcontent{
+    
+    line-height: 8vh;
+}
+span{
+    font-size: 23px;
+    margin-left: 8px;
+    font-family: arial;
+}
+label{
+    margin-right: 30px;
+    font-size: 20px;
+    font-family: arial;
+}
+input{
+    padding: 8px;
+    font-family: arial;
+    font-size: 16px;
+    height: 26px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px black;
+}
+#submitbtn{
+    
+    padding: 10px 10px 23px 10px;
+    
+}
+#submitbtn:hover{
+    color: white;
+    background-color: black;
+}
